@@ -1,0 +1,11 @@
+name,email,password,role,department,studentId,isActive
+John Doe,john.doe@university.edu,password123,student,CSE,22CS001,true
+Jane Smith,jane.smith@university.edu,password123,student,IT,22IT001,true
+Dr. Robert Johnson,robert.johnson@university.edu,password123,faculty,CSE,,true
+Dr. Sarah Brown,sarah.brown@university.edu,password123,faculty,IT,,true
+Mike Wilson,mike.wilson@university.edu,password123,student,AIML,22AI001,true
+Lisa Davis,lisa.davis@university.edu,password123,student,ECE,22EC001,true
+Dr. David Miller,david.miller@university.edu,password123,faculty,ECE,,true
+Emma Wilson,emma.wilson@university.edu,password123,student,CIVIL,22CV001,true
+Tom Anderson,tom.anderson@university.edu,password123,student,MECH,22ME001,true
+Dr. Maria Garcia,maria.garcia@university.edu,password123,faculty,MECH,,true 

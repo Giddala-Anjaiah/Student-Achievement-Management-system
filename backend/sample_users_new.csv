@@ -1,0 +1,4 @@
+name,email,password,role,department,studentId,isActive
+Alice Johnson,alice.johnson@university.edu,password123,student,CSE,22CS002,TRUE
+Bob Smith,bob.smith@university.edu,password123,student,IT,22IT002,TRUE
+Dr. Emily Davis,emily.davis@university.edu,password123,faculty,CSE,,TRUE 

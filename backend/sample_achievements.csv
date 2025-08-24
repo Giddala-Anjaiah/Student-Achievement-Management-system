@@ -1,0 +1,11 @@
+title,description,category,level,date,organization,studentEmail,status,points
+Academic Excellence Award,Outstanding performance in Computer Science with GPA 3.9,academic,university,2024-01-15,University of Technology,student1@example.com,approved,50
+Sports Championship,First place in inter-university basketball tournament,sports,state,2024-02-20,State Sports Association,student2@example.com,approved,30
+Technical Project,Developed a mobile app for campus navigation,technical,national,2024-03-10,National Tech Competition,student3@example.com,pending,40
+Cultural Performance,Lead role in university drama festival,cultural,university,2024-01-25,University Cultural Committee,student1@example.com,approved,25
+Leadership Award,President of Computer Science Student Association,leadership,university,2024-02-15,Student Affairs Office,student2@example.com,approved,35
+Research Paper,Published paper on AI applications in education,academic,national,2024-03-05,National Research Conference,student3@example.com,pending,60
+Coding Competition,Second place in national coding challenge,technical,national,2024-02-28,National Programming Society,student1@example.com,approved,45
+Debate Competition,Best speaker award in inter-college debate,cocurricular,state,2024-01-30,State Debate Federation,student2@example.com,approved,20
+Music Performance,First place in classical music competition,cultural,university,2024-02-10,University Music Department,student3@example.com,pending,30
+Community Service,Organized blood donation camp for 200+ donors,leadership,university,2024-03-15,Red Cross Society,student1@example.com,approved,40 

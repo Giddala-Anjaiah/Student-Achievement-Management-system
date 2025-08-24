@@ -1,0 +1,13 @@
+# Sample Excel File Format for User Import
+# This is a placeholder for an Excel file (.xlsx) with the following structure:
+
+# Sheet 1: Users
+# Headers: name, email, password, role, department, studentId, isActive
+# 
+# Example data:
+# name,email,password,role,department,studentId,isActive
+# ExcelStudent1,excelstudent1@test.com,password123,student,CSE,22CS999,TRUE
+# ExcelFaculty1,excelfaculty1@test.com,password123,faculty,IT,,TRUE
+# ExcelAdmin1,exceladmin1@test.com,password123,admin,ECE,,TRUE
+
+# Note: Create an actual Excel file (.xlsx) with this data structure for testing 

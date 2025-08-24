@@ -1,0 +1,3 @@
+name,email,password,role,department,studentId,isActive
+varsha,22bq1a0567@vvit.net,password123,student,cse,22bq1a0567,TRUE
+Hari Vinayak,22bq1a0568@vvit.net,password123,student,cse,22bq1a0568,TRUE 

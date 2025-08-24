@@ -1,0 +1,4 @@
+name,email,password,role,department,studentId,isActive
+TestUser1,testuser1@example.com,password123,student,CSE,22CS999,TRUE
+TestUser2,testuser2@example.com,password123,faculty,IT,,TRUE
+TestUser3,testuser3@example.com,password123,admin,ECE,,TRUE 

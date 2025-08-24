@@ -1,0 +1,4 @@
+name,email,password,role,department,studentId,isActive
+Rahul Kumar,rahul.kumar@university.edu,password123,student,CSE,22CS004,TRUE
+Priya Sharma,priya.sharma@university.edu,password123,faculty,IT,,TRUE
+Dr. Amit Patel,amit.patel@university.edu,password123,admin,ECE,,TRUE 

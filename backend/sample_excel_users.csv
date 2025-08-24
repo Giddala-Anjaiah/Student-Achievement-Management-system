@@ -1,0 +1,4 @@
+name,email,password,role,department,studentId,isActive
+ExcelStudent1,excelstudent1@test.com,password123,student,CSE,22CS999,TRUE
+ExcelFaculty1,excelfaculty1@test.com,password123,faculty,IT,,TRUE
+ExcelAdmin1,exceladmin1@test.com,password123,admin,ECE,,TRUE 
